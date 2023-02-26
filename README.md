@@ -1,2 +1,2 @@
 #test file
-some description ; this is a test file. It has an error.
+some description ; this is a test file. Now erro has been corrected.
